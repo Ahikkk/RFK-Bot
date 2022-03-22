@@ -32,9 +32,9 @@ supaya saya menambahkan nama Anda disini
 global.linkGC = ['https://chat.whatsapp.com/invite/GLJ8l40brp3BcFodqch21J', 'https://chat.whatsapp.com/Lggj1Hl7p18ILA8gXsK2yi', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
 
 //Berbagai itu indah @Parel / Rxfly
-global.owner = ['0'] // Put your number here
-global.mods = ['2'] // Want some help?
-global.prems = ['1'] // Premium user has unlimited limit
+global.owner = ['081276188297'] // Put your number here
+global.mods = ['081276188297'] // Want some help?
+global.prems = ['081276188297'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -103,8 +103,8 @@ lolkey = 'rey2k21'
 lolKey = 'rey2k21'
 
 
-footer = '\n\n\n@ＪＥＭ － Ｂｏｔ'
-namabot = 'RFK - BOT'
+footer = '\n\n\n@GTHUB OFFICIAL BOT'
+namabot = 'GTHUB - BOT'
 bc = namabot
 //bc = 'RAFA BOT'
 namaowner = 'Andra Ngentottttttt'
